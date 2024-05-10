@@ -1,1 +1,2 @@
-# face_detection_app
+
+# Face Detection using OpenCV and Streamlit
